@@ -41,3 +41,11 @@ python createBatches.py bismark_pbs_scripts/ 2 normal
  - Absolute path to the folder containing your pbs scripts. 
  - Number of chunks or scripts to submit in a batch.
  - PBS queue name to which you want to submit these jobs.
+ 
+ ## Tool User Guide
+
+|Tool | Reference URL |
+|-----|-----|
+|`Bismark` | [user guide](https://github.com/FelixKrueger/Bismark/tree/master/Docs)|
+|`TrimGalore` | [user guide](https://github.com/FelixKrueger/TrimGalore/blob/master/Docs/Trim_Galore_User_Guide.md) |
+| `preseq` | [docs](http://smithlabresearch.org/software/preseq/)|
